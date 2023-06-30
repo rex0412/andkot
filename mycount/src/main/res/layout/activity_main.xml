@@ -13,6 +13,13 @@
         android:textSize="50sp"
         android:text="Number Count" />
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="10초 동안만 카운트됩니다." />
+
     <Button
         android:id="@+id/countButton"
         android:layout_width="wrap_content"
